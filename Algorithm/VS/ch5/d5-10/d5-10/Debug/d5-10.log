@@ -1,0 +1,5 @@
+﻿  d5-10.cpp
+e:\study\student\c_c++\workspace\algorithm\vs\ch5\d5-10\d5-10\d5-10.cpp(18): warning C4838: 从“double”转换到“float”需要收缩转换
+e:\study\student\c_c++\workspace\algorithm\vs\ch5\d5-10\d5-10\d5-10.cpp(18): warning C4305: “初始化”: 从“double”到“float”截断
+e:\study\student\c_c++\workspace\algorithm\vs\ch5\d5-10\d5-10\d5-10.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+  d5-10.vcxproj -> E:\study\student\C_C++\workspace\Algorithm\VS\ch5\d5-10\Debug\d5-10.exe

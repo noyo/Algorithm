@@ -1,0 +1,4 @@
+﻿  d5-8.cpp
+e:\study\student\c_c++\workspace\algorithm\vs\ch5\d5-8\d5-8\d5-8.cpp(18): warning C4018: “>”: 有符号/无符号不匹配
+e:\study\student\c_c++\workspace\algorithm\vs\ch5\d5-8\d5-8\d5-8.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+  d5-8.vcxproj -> E:\study\student\C_C++\workspace\Algorithm\VS\ch5\d5-8\Debug\d5-8.exe

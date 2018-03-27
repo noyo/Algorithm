@@ -1,0 +1,12 @@
+alice work
+welley akm
+bull  bullet
+eny     kukle
+eny     amfine
+END
+B work
+B bullet
+B kukle
+R kukle
+S kukle
+END

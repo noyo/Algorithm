@@ -1,0 +1,3 @@
+﻿  d5-1.cpp
+e:\study\student\c_c++\workspace\algorithm\vs\ch5\d5-1\d5-1.cpp(12): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  d5-1.vcxproj -> E:\study\student\C_C++\workspace\Algorithm\VS\ch5\d5-1\Debug\d5-1.exe
